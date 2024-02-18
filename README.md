@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 # VibeMusic
 
 
@@ -34,3 +36,8 @@ TOP 100 차트 제공 (조회수 기준)
 회사 위치 제공
 
 회사 위치 및 오시는 길 확인 기능
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
