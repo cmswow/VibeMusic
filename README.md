@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#FF7F50&height=50&section=header&text=PROJECT&fontSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # VibeMusic
 
 
@@ -40,4 +41,4 @@ TOP 100 차트 제공 (조회수 기준)
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
