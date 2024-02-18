@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#FF7F50&height=50&section=header&text=PROJECT&fontSize=10" />
 # VibeMusic
 
 
