@@ -1,6 +1,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+![mainpage](https://github.com/cmswow/VibeMusic/assets/127907534/765571a6-d03d-4e24-b107-7b601d038cb1)
+
+![검색기능](https://github.com/cmswow/VibeMusic/assets/127907534/4bb603bc-f7aa-4466-ae98-017161f7272a)
+
 # VibeMusic
 
 
